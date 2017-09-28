@@ -1,0 +1,21 @@
+@font-face {
+    font-family: ArialRegular;
+    src:url("../fonts/Arial/ArialRegular/ArialRegular.woff");
+
+}
+
+@font-face {
+    font-family: ArialBold;
+    src:url("../fonts/Arial/ArialBold/ArialBold.woff");
+}
+
+
+@font-face {
+    font-family: ArialNarrowBold;
+    src:url("../fonts/Arial/ArialNarrow/ArialNarrowBold/ArialNarrowBold.woff");
+}
+
+@font-face {
+    font-family: Helvetica;
+    src:url("../fonts/Helvetica/Helvetica-Condensed-Black.otf");
+}
